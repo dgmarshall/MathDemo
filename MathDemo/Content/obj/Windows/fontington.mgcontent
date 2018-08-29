@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/Dev/Mono/MathDemo/MathDemo/Content/fontington.spritefont</SourceFile>
+  <SourceFile>C:/Users/David/Dropbox/Repo/MathDemo/MathDemo/Content/fontington.spritefont</SourceFile>
   <SourceTime>2015-01-20T00:24:04+00:00</SourceTime>
-  <DestFile>D:/Dev/Mono/MathDemo/MathDemo/Content/bin/Windows/fontington.xnb</DestFile>
-  <DestTime>2017-11-02T12:19:24.2440412+00:00</DestTime>
+  <DestFile>C:/Users/David/Dropbox/Repo/MathDemo/MathDemo/Content/bin/Windows/fontington.xnb</DestFile>
+  <DestTime>2018-08-29T16:09:03.1494158+01:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
