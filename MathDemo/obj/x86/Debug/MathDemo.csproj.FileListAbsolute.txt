@@ -1,0 +1,110 @@
+C:\Mono\MathDemo\MathDemo\obj\x86\Debug\MathDemo.csprojResolveAssemblyReference.cache
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\MathDemo.exe
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\MathDemo.pdb
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.dll
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.xml
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Mono\MathDemo\MathDemo\obj\x86\Debug\MathDemo.exe
+C:\Mono\MathDemo\MathDemo\obj\x86\Debug\MathDemo.pdb
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\Content\TestImageSmall.png
+C:\Mono\MathDemo\MathDemo\bin\Windows\Debug\Content\fontington.xnb
+D:\Mono\MathDemo\MathDemo\obj\x86\Debug\MathDemo.exe
+D:\Mono\MathDemo\MathDemo\obj\x86\Debug\MathDemo.pdb
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\Content\fontington.xnb
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\Content\TestImageSmall.png
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\MathDemo.exe
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\MathDemo.pdb
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.dll
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.xml
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Mono\MathDemo\MathDemo\obj\x86\Debug\MathDemo.csprojResolveAssemblyReference.cache
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\obj\x86\Debug\MathDemo.exe
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\obj\x86\Debug\MathDemo.pdb
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\obj\x86\Debug\MathDemo.csprojResolveAssemblyReference.cache
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\Content\fontington.xnb
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\Content\TestImageSmall.png
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\MathDemo.exe
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\MathDemo.pdb
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.dll
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.xml
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Dev\HND\Maths (HH3L 35)\MathDemo\MathDemo\bin\Windows\Debug\Content\TestImage.png
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\Content\fontington.xnb
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\Content\TestImageSmall.png
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\Content\TestImage.png
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\MathDemo.exe
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\MathDemo.pdb
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.dll
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.xml
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Dev\Mono\MathDemo\MathDemo\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Dev\Mono\MathDemo\MathDemo\obj\x86\Debug\MathDemo.csprojResolveAssemblyReference.cache
+D:\Dev\Mono\MathDemo\MathDemo\obj\x86\Debug\MathDemo.exe
+D:\Dev\Mono\MathDemo\MathDemo\obj\x86\Debug\MathDemo.pdb
